@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project aims to analyze data related to depression, available on the Kaggle platform. The analysis involves data manipulation, visualization, and basic modeling, data preprocessing, outlier detection, clustering, and classification using Python tools.
+This project aims to analyze data related to depression, available on the Kaggle platform. The analysis involves data manipulation, visualization, and basic modeling, data preprocessing, outlier detection, clustering, and classification using Python tools. 
 
 ## Contents
 
